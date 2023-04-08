@@ -33,6 +33,4 @@ Web Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Nik42KIS"><img src="https://github-readme-stats.vercel.app/api?username=Nik42KIS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nik42KIS's GitHub stats" /></a>
+![Языки, используемые в моих репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik42KIS&langs_count=8&layout=compact)
