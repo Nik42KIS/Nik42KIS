@@ -8,7 +8,7 @@ Web Developer
 * 🤝  I'm open to collaborating on interesting projects
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1558244661-d248897f7bc4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMzQ0NzcwfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60" alt="description of image" style="width:100%;max-width:600px;">
+  <img src="https://images.unsplash.com/photo-1558244661-d248897f7bc4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMzQ0NzcwfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60" alt="description of image" style="width:100%;max-width:600px; height: 100px">
 </div>
 
 
