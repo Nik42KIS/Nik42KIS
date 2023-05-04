@@ -4,7 +4,7 @@ Hi 👋 My name is Nikita
 Web Developer
 -------------
 
-* ✉️  You can contact me at [rabota@gmail.com](mailto:rabota@gmail.com)
+* ✉️  You can contact me at [rabot422@gmail.com](mailto:rabot422@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 <div align="center">
